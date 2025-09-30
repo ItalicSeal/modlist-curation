@@ -1,0 +1,1181 @@
+{
+  "name": "My Modpack",
+  "version": "1.0.0",
+  "minecraft": {
+    "version": "1.20.1",
+    "loader": {
+      "type": "fabric",
+      "version": "0.16.5"
+    }
+  },
+  "mods": [
+    {
+      "name": "Ammendments",
+      "id": "ammendments",
+      "version": "1.20.1",
+      "filename": "ammendments.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/amendments?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "yyz's backpack",
+      "id": "yyz's-backpack",
+      "version": "1.20.1",
+      "filename": "yyz's-backpack.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/yyzs-backpack?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Supplementaries",
+      "id": "supplementaries",
+      "version": "1.20.1",
+      "filename": "supplementaries.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/supplementaries?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Better Combat",
+      "id": "better-combat",
+      "version": "1.20.1",
+      "filename": "better-combat.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/better-combat/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Borderless Mining",
+      "id": "borderless-mining",
+      "version": "1.20.1",
+      "filename": "borderless-mining.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/borderless-mining?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Coins JE",
+      "id": "coins-je",
+      "version": "1.20.1",
+      "filename": "coins-je.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/coins-je/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Continuity",
+      "id": "continuity",
+      "version": "1.20.1",
+      "filename": "continuity.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/continuity?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Create Fabric",
+      "id": "create-fabric",
+      "version": "1.20.1",
+      "filename": "create-fabric.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/create-fabric?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Cull Leaves",
+      "id": "cull-leaves",
+      "version": "1.20.1",
+      "filename": "cull-leaves.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/cull-leaves?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Customizable Player Models",
+      "id": "customizable-player-models",
+      "version": "1.20.1",
+      "filename": "customizable-player-models.jar",
+      "download": {
+        "url": "https://modrinth.com/plugin/custom-player-models?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Dark Loading Screen",
+      "id": "dark-loading-screen",
+      "version": "1.20.1",
+      "filename": "dark-loading-screen.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/dark-loading-screen/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Dynamic FPS",
+      "id": "dynamic-fps",
+      "version": "1.20.1",
+      "filename": "dynamic-fps.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/dynamic-fps/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Entity Culling",
+      "id": "entity-culling",
+      "version": "1.20.1",
+      "filename": "entity-culling.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/entityculling/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Fabric API",
+      "id": "fabric-api",
+      "version": "1.20.1",
+      "filename": "fabric-api.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/fabric-api?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Farmer's Delight Refabricated",
+      "id": "farmer's-delight-refabricated",
+      "version": "1.20.1",
+      "filename": "farmer's-delight-refabricated.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/farmers-delight-refabricated/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "First-person Model",
+      "id": "first-person-model",
+      "version": "1.20.1",
+      "filename": "first-person-model.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/first-person-model/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Hide Armour",
+      "id": "hide-armour",
+      "version": "1.20.1",
+      "filename": "hide-armour.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/hide-armour?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Immersive Armors",
+      "id": "immersive-armors",
+      "version": "1.20.1",
+      "filename": "immersive-armors.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/immersive-armors?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Camera Overhual",
+      "id": "camera-overhual",
+      "version": "1.20.1",
+      "filename": "camera-overhual.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/cameraoverhaul/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Iris Shaders",
+      "id": "iris-shaders",
+      "version": "1.20.1",
+      "filename": "iris-shaders.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/iris?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Litematica",
+      "id": "litematica",
+      "version": "1.20.1",
+      "filename": "litematica.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/litematica?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Lithium",
+      "id": "lithium",
+      "version": "1.20.1",
+      "filename": "lithium.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/lithium?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "MedievalWeapons",
+      "id": "medievalweapons",
+      "version": "1.20.1",
+      "filename": "medievalweapons.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/medievalweapons/versions?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Epic Knights: Shield Armor and Weapons",
+      "id": "epic-knights:-shield-armor-and-weapons",
+      "version": "1.20.1",
+      "filename": "epic-knights:-shield-armor-and-weapons.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/epic-knights-shields-armor-and-weapons/versions?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Mod Menu",
+      "id": "mod-menu",
+      "version": "1.20.1",
+      "filename": "mod-menu.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/modmenu?version=1.20.1&loader=fabric#download",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Not Enough Animations",
+      "id": "not-enough-animations",
+      "version": "1.20.1",
+      "filename": "not-enough-animations.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/not-enough-animations?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Quality of Life (QoL) Fixes",
+      "id": "quality-of-life-(qol)-fixes",
+      "version": "1.20.1",
+      "filename": "quality-of-life-(qol)-fixes.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/quality-of-life-qol-fixes?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Sodium",
+      "id": "sodium",
+      "version": "1.20.1",
+      "filename": "sodium.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/sodium/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "id": "sound-physics-remastered",
+      "version": "1.20.1",
+      "filename": "sound-physics-remastered.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/sound-physics-remastered?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Starlight (Fabric)",
+      "id": "starlight-(fabric)",
+      "version": "1.20.1",
+      "filename": "starlight-(fabric).jar",
+      "download": {
+        "url": "https://modrinth.com/mod/starlight?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Very Many Players (Fabric)",
+      "id": "very-many-players-(fabric)",
+      "version": "1.20.1",
+      "filename": "very-many-players-(fabric).jar",
+      "download": {
+        "url": "https://modrinth.com/mod/vmp-fabric?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "id": "simple-voice-chat",
+      "version": "1.20.1",
+      "filename": "simple-voice-chat.jar",
+      "download": {
+        "url": "https://modrinth.com/plugin/simple-voice-chat/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "You're in Grave Danger",
+      "id": "you're-in-grave-danger",
+      "version": "1.20.1",
+      "filename": "you're-in-grave-danger.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/yigd?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Euphoria Patches",
+      "id": "euphoria-patches",
+      "version": "1.20.1",
+      "filename": "euphoria-patches.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/euphoria-patches/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Better Third Person",
+      "id": "better-third-person",
+      "version": "1.20.1",
+      "filename": "better-third-person.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/better-third-person/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Cloth Config API",
+      "id": "cloth-config-api",
+      "version": "1.20.1",
+      "filename": "cloth-config-api.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/cloth-config?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Chunky",
+      "id": "chunky",
+      "version": "1.20.1",
+      "filename": "chunky.jar",
+      "download": {
+        "url": "https://modrinth.com/plugin/chunky?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Distant Horizons",
+      "id": "distant-horizons",
+      "version": "1.20.1",
+      "filename": "distant-horizons.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/distanthorizons/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "FastQuit",
+      "id": "fastquit",
+      "version": "1.20.1",
+      "filename": "fastquit.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/fastquit?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "IceAndFire Community Edition",
+      "id": "iceandfire-community-edition",
+      "version": "1.20.1",
+      "filename": "iceandfire-community-edition.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/iceandfire-ce?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "id": "immediatelyfast",
+      "version": "1.20.1",
+      "filename": "immediatelyfast.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/immediatelyfast?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Nyf's Spiders",
+      "id": "nyf's-spiders",
+      "version": "1.20.1",
+      "filename": "nyf's-spiders.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/nyfs-spiders?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "YDM's Weapon Master",
+      "id": "ydm's-weapon-master",
+      "version": "1.20.1",
+      "filename": "ydm's-weapon-master.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/weaponmaster?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Remove Reloading Screen",
+      "id": "remove-reloading-screen",
+      "version": "1.20.1",
+      "filename": "remove-reloading-screen.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/rrls/version/4.0.6.1+mc1.20.1-forge?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "YUNG's Cave Biomes",
+      "id": "yung's-cave-biomes",
+      "version": "1.20.1",
+      "filename": "yung's-cave-biomes.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/yungs-cave-biomes?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Snow! Real Magic!",
+      "id": "snow!-real-magic!",
+      "version": "1.20.1",
+      "filename": "snow!-real-magic!.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/snow-real-magic?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "[EMF] Entity Model Features",
+      "id": "[emf]-entity-model-features",
+      "version": "1.20.1",
+      "filename": "[emf]-entity-model-features.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/entity-model-features/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Presence Footsteps",
+      "id": "presence-footsteps",
+      "version": "1.20.1",
+      "filename": "presence-footsteps.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/presence-footsteps/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Lushness",
+      "id": "lushness",
+      "version": "1.0.0",
+      "filename": "lushness.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/lushness",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Attack Through Grass",
+      "id": "attack-through-grass",
+      "version": "1.20.1",
+      "filename": "attack-through-grass.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/attack-through-grass/version/2.0.2+1.21.3?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Techtonic",
+      "id": "techtonic",
+      "version": "1.20.1",
+      "filename": "techtonic.jar",
+      "download": {
+        "url": "https://modrinth.com/datapack/tectonic?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Small Ships",
+      "id": "small-ships",
+      "version": "1.20.1",
+      "filename": "small-ships.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/small-ships?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Just Enough Items",
+      "id": "just-enough-items",
+      "version": "1.20.1",
+      "filename": "just-enough-items.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/jei/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "NiftyCarts",
+      "id": "niftycarts",
+      "version": "1.20.1",
+      "filename": "niftycarts.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/niftycarts?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "YUNG'S Better Mineshafts",
+      "id": "yung's-better-mineshafts",
+      "version": "1.20.1",
+      "filename": "yung's-better-mineshafts.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/yungs-better-mineshafts?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "id": "yung's-better-dungeons",
+      "version": "1.20.1",
+      "filename": "yung's-better-dungeons.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/yungs-better-dungeons/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Artifacts",
+      "id": "artifacts",
+      "version": "1.20.1",
+      "filename": "artifacts.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/artifacts/versions?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Falling Leaves",
+      "id": "falling-leaves",
+      "version": "1.20.1",
+      "filename": "falling-leaves.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/fallingleaves?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Nullscape",
+      "id": "nullscape",
+      "version": "1.20.1",
+      "filename": "nullscape.jar",
+      "download": {
+        "url": "https://modrinth.com/datapack/nullscape?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Ender Dragon Fight Remastered",
+      "id": "ender-dragon-fight-remastered",
+      "version": "1.20.1",
+      "filename": "ender-dragon-fight-remastered.jar",
+      "download": {
+        "url": "https://modrinth.com/datapack/edf-remastered?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "End Remastered",
+      "id": "end-remastered",
+      "version": "1.20.1",
+      "filename": "end-remastered.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/endrem/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "The Ather",
+      "id": "the-ather",
+      "version": "1.20.1",
+      "filename": "the-ather.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/aether/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Villager Names",
+      "id": "villager-names",
+      "version": "1.20.1",
+      "filename": "villager-names.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/villager-names-serilum/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Interactic",
+      "id": "interactic",
+      "version": "1.20.1",
+      "filename": "interactic.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/interactic/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Aquamirae",
+      "id": "aquamirae",
+      "version": "1.20.1",
+      "filename": "aquamirae.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/aquamirae/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "[ETF] Entity Texture Features",
+      "id": "[etf]-entity-texture-features",
+      "version": "1.20.1",
+      "filename": "[etf]-entity-texture-features.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/entitytexturefeatures?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Moonlight Lib",
+      "id": "moonlight-lib",
+      "version": "1.20.1",
+      "filename": "moonlight-lib.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/moonlight?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Complete Config",
+      "id": "complete-config",
+      "version": "1.20.1",
+      "filename": "complete-config.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/completeconfig?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Bookshelf",
+      "id": "bookshelf",
+      "version": "1.20.1",
+      "filename": "bookshelf.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/bookshelf-lib?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "MidnightLib",
+      "id": "midnightlib",
+      "version": "1.20.1",
+      "filename": "midnightlib.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/midnightlib?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "YUNG's API",
+      "id": "yung's-api",
+      "version": "1.20.1",
+      "filename": "yung's-api.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/yungs-api/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Jupiter",
+      "id": "jupiter",
+      "version": "1.20.1",
+      "filename": "jupiter.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/jupiter/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Uranus",
+      "id": "uranus",
+      "version": "1.20.1",
+      "filename": "uranus.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/uranus/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Malilib",
+      "id": "malilib",
+      "version": "1.20.1",
+      "filename": "malilib.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/malilib?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Architectury API",
+      "id": "architectury-api",
+      "version": "1.20.1",
+      "filename": "architectury-api.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/architectury-api?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Kiwi \ud83e\udd5d",
+      "id": "kiwi-\ud83e\udd5d",
+      "version": "1.20.1",
+      "filename": "kiwi-\ud83e\udd5d.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/kiwi?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Lithostitched",
+      "id": "lithostitched",
+      "version": "1.20.1",
+      "filename": "lithostitched.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/lithostitched/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Collective",
+      "id": "collective",
+      "version": "1.20.1",
+      "filename": "collective.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/collective/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Terrablender",
+      "id": "terrablender",
+      "version": "1.20.1",
+      "filename": "terrablender.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/terrablender?loader=fabric&version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Geckolib",
+      "id": "geckolib",
+      "version": "1.20.1",
+      "filename": "geckolib.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/geckolib/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "id": "fabric-language-kotlin",
+      "version": "1.20.1",
+      "filename": "fabric-language-kotlin.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/fabric-language-kotlin?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Accessories",
+      "id": "accessories",
+      "version": "1.20.1",
+      "filename": "accessories.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/accessories/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Obscure API",
+      "id": "obscure-api",
+      "version": "1.20.1",
+      "filename": "obscure-api.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/obscure-api/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "YetAnotherConfigLib (YACL)",
+      "id": "yetanotherconfiglib-(yacl)",
+      "version": "1.20.1",
+      "filename": "yetanotherconfiglib-(yacl).jar",
+      "download": {
+        "url": "https://modrinth.com/mod/yacl/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Forge Config API Port",
+      "id": "forge-config-api-port",
+      "version": "1.20.1",
+      "filename": "forge-config-api-port.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/forge-config-api-port/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Trinkets",
+      "id": "trinkets",
+      "version": "1.20.1",
+      "filename": "trinkets.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/trinkets?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "o\u03c9o (owo-lib)",
+      "id": "o\u03c9o-(owo-lib)",
+      "version": "1.20.1",
+      "filename": "o\u03c9o-(owo-lib).jar",
+      "download": {
+        "url": "https://modrinth.com/mod/owo-lib?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Indium",
+      "id": "indium",
+      "version": "1.20.1",
+      "filename": "indium.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/indium?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Player Animator",
+      "id": "player-animator",
+      "version": "1.20.1",
+      "filename": "player-animator.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/playeranimator?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "ARRP",
+      "id": "arrp",
+      "version": "1.20.1",
+      "filename": "arrp.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/arrp/versions?version=1.20.1",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "Better Runtime Resource Pack (BRRP)",
+      "id": "better-runtime-resource-pack-(brrp)",
+      "version": "1.20.1",
+      "filename": "better-runtime-resource-pack-(brrp).jar",
+      "download": {
+        "url": "https://modrinth.com/mod/brrp/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    },
+    {
+      "name": "e4mc",
+      "id": "e4mc",
+      "version": "1.20.1",
+      "filename": "e4mc.jar",
+      "download": {
+        "url": "https://modrinth.com/mod/e4mc/versions?version=1.20.1&loader=fabric",
+        "hash": {}
+      },
+      "required": true,
+      "side": "both"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "Vanilla Mashup (PBR)",
+      "version": "1.21",
+      "filename": "vanilla-mashup-(pbr).zip",
+      "download": {
+        "url": "https://modrinth.com/resourcepack/vanilla-mashup-pbr?version=1.21",
+        "hash": {}
+      },
+      "side": "client"
+    },
+    {
+      "name": "MedievalMusic",
+      "version": "1.20.1",
+      "filename": "medievalmusic.zip",
+      "download": {
+        "url": "https://modrinth.com/resourcepack/medievalmusic?version=1.20.1",
+        "hash": {}
+      },
+      "side": "client"
+    },
+    {
+      "name": "Fresh Animations",
+      "version": "1.20.1",
+      "filename": "fresh-animations.zip",
+      "download": {
+        "url": "https://modrinth.com/resourcepack/fresh-animations?version=1.20.1",
+        "hash": {}
+      },
+      "side": "client"
+    },
+    {
+      "name": "Os' Colorful Grasses",
+      "version": "1.20.1",
+      "filename": "os'-colorful-grasses.zip",
+      "download": {
+        "url": "https://modrinth.com/resourcepack/os-colorful-grasses?version=1.20.1",
+        "hash": {}
+      },
+      "side": "client"
+    }
+  ],
+  "shaderpacks": [
+    {
+      "name": "Complimentary Shaders - Reimagined",
+      "version": "1.20.1",
+      "filename": "complimentary-shaders---reimagined.zip",
+      "download": {
+        "url": "https://modrinth.com/shader/complementary-reimagined?version=1.20.1&loader=iris",
+        "hash": {}
+      },
+      "side": "client"
+    },
+    {
+      "name": "Photon Shaders",
+      "version": "1.20.1",
+      "filename": "photon-shaders.zip",
+      "download": {
+        "url": "https://modrinth.com/shader/photon-shader?version=1.20.1&loader=iris",
+        "hash": {}
+      },
+      "side": "client"
+    }
+  ]
+}
