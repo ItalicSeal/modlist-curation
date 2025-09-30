@@ -1,5 +1,7 @@
 {
-  "name": "My Modpack",
+  "name": "Dungeons and Potentially Dragons",
+  "description": "Dragons, knights, traps and magic loot.",
+  "image_directory": "modpack_image.png",
   "version": "1.0.0",
   "minecraft": {
     "version": "1.20.1",
@@ -1178,4 +1180,5 @@
       "side": "client"
     }
   ]
+
 }
