@@ -1,5 +1,6 @@
 {
   "name": "Dungeons and Potentially Dragons",
+  "id": "dungeons_and_dragons_packs",
   "description": "Dragons, knights, traps and magic loot.",
   "image_directory": "modpack_image.png",
   "version": "1.0.0",
@@ -1182,3 +1183,4 @@
   ]
 
 }
+
