@@ -8,7 +8,7 @@
     "version": "1.20.1",
     "loader": {
       "type": "fabric",
-      "version": "0.16.5"
+      "version": "0.17.2"
     }
   },
   "mods": [
@@ -1183,4 +1183,5 @@
   ]
 
 }
+
 
